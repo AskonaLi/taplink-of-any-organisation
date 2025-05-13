@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Cormorant+Infant:ital,wght@0,300..700;1,300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import "tailwindcss";
+
+
+ /* <link rel="stylesheet" href="./fonts/new-york/stylesheet.css" />
+ <link rel="preconnect" href="https://fonts.googleapis.com" />
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+ <link
+   href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Cormorant+Infant:ital,wght@0,300..700;1,300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+   rel="stylesheet"
+ /> */
+
+
+@layer base {
+  body {
+    font-family: 'Cormorant Garamond', sans-serif;
+  }
+
+  .cormorantInfant {
+    font-family: "Cormorant Infant", serif;
+  }
+
+  .visually-hidden {
+    clip: rect(0 0 0 0); /* Используется только для старых браузеров */
+  clip-path: inset(50%);
+    width: 1px;
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  }
+
+  input:focus {
+    outline: none;
+  }
+
+  input:focus-visible {
+    outline: 1px solid -webkit-focus-ring-color;
+  }
+
+}
