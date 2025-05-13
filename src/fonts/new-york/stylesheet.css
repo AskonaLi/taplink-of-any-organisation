@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "New York";
+  src: url("NewYorkLarge-Bold.eot");
+  src:
+    local("New York Large Bold"),
+    local("NewYorkLarge-Bold"),
+    url("NewYorkLarge-Bold.eot?#iefix") format("embedded-opentype"),
+    url("NewYorkLarge-Bold.woff2") format("woff2"),
+    url("NewYorkLarge-Bold.woff") format("woff"),
+    url("NewYorkLarge-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "New York";
+  src: url("NewYorkLarge-Regular.eot");
+  src:
+    local("New York Large Regular"),
+    local("NewYorkLarge-Regular"),
+    url("NewYorkLarge-Regular.eot?#iefix") format("embedded-opentype"),
+    url("NewYorkLarge-Regular.woff2") format("woff2"),
+    url("NewYorkLarge-Regular.woff") format("woff"),
+    url("NewYorkLarge-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
