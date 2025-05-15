@@ -1,7 +1,7 @@
 # Таплинк для организации
 
 [Ссылка на мой реппозиторий](https://github.com/AskonaLi/taplink-of-organisation)
-<!-- [Ссылка на мою работу на GitHub Pages](https://github.com/AskonaLi/taplink-of-organisation) -->
+<!-- [Ссылка на мою работу на GitHub Pages](https://askonali.github.io/taplink-of-organisation) -->
 
 ## Технологии:
 - HTML
