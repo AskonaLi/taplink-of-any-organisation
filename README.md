@@ -1,4 +1,4 @@
-# Таплинк для любой организации
+# Таплинк для организации
 
 [Ссылка на мой реппозиторий](https://github.com/AskonaLi/taplink-of-any-organisation)
 
